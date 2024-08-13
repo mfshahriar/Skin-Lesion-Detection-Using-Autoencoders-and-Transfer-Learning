@@ -1,4 +1,4 @@
-#Skin Lesion Detection Using Autoencoders and Transfer Learning
+#Skin-Lesion-Detection-Using-Autoencoders-and-Transfer-Learning
 
 Detection of skin lesions at early stages can be critical in tackling melanoma (a
 form of skin cancer).With the addition of more malignant cases to our dataset,
